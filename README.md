@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm keen on GIS technologies. I'm passionate about all aspects of this field. 
+I am GIS Professional. 
+
+My goal is increasing constantly my level of knowledge about GIS technologies. For this, I need GIS challenges.
+
+ I'm keen on GIS technologies. I'm passionate about all aspects of this field as analysis as develop.
  
  I'm looking for collaborate on GIS development projects.
+
+ I'm looking for help with a personal project based on a GIS platform.
+
